@@ -1,0 +1,11 @@
+{
+  "name": "sea-b24-tee-program",
+  "version": "0.1.0",
+  "description": "tee program assignment for CF-SEA-B24",
+  "main": "tee.js",
+  "scripts": {
+    "test": "npm tee.js"
+  },
+  "author": "Paul Laskowski",
+  "license": "CC-Atribution"
+}
